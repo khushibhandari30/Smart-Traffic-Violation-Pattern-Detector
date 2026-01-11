@@ -45,7 +45,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 
     ```bash
     git clone https://github.com/khushibhandari30/Smart-Traffic-Violation-Pattern-Detector.git
-    cd Smart_Traffic_Violation_Pattern_Detector
+    cd Smart-Traffic-Violation-Pattern-Detector
     ```
 
 2. **Choose your package manager:**
