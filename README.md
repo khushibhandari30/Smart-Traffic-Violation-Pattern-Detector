@@ -1,18 +1,18 @@
 # 🚦 Smart Traffic Violation Pattern Detector Dashboard 
-🔍 A Streamlit-based dashboard to analyze, visualize, and detect patterns in traffic violation data using interactive charts, maps, and trend analysis.
+ A Streamlit-based dashboard to analyze, visualize, and detect patterns in traffic violation data using interactive charts, maps, and trend analysis.
 
 
-## 📝 Overview
+##  Overview
 
 This project is a Streamlit web application designed to analyze traffic violation data. It provides a user-friendly interface to explore, visualize, and gain insights from traffic violation datasets.
 
-> 📘 **Documentation**: For a comprehensive understanding of the project, please refer to our detailed core documentation:
+>  **Documentation**: For a comprehensive understanding of the project, please refer to our detailed core documentation:
 >
 > * **[1. System Architecture (Basic)](PROJECT_DOCUMENTATIONS/PROJECT_BLUEPRINT_1-BASIC.md)**: High-level overview, architecture diagrams, and directory structure.
 > * **[2. Page Development Details](PROJECT_DOCUMENTATIONS/PROJECT_BLUEPRINT_2-PAGE_DEVELOPMENT_DETAILS.md)**: In-depth analysis of each page, purpose, and dependencies.
 > * **[3. Visual Diagrams](PROJECT_DOCUMENTATIONS/PROJECT_BLUEPRINT_3-VISUAL_DIAGRAMS.md)**: Detailed Architecture, Data Flow, and Component Interaction diagrams.
 
-## 🎯 Features
+##  Features
 
 * **Dataset Management:**
   * Upload your own CSV datasets.
@@ -29,7 +29,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 * **Correlation Analysis:**
   * Explore correlations between numerical columns with a heatmap.
 
-## 🧠 Use Cases
+##  Use Cases
 
 - Traffic police departments analyzing violation trends
 - Smart city planners identifying high-risk zones
@@ -39,7 +39,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository:**
 
@@ -52,7 +52,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 
     ---
 
-   ### 🌟 Primary Method:  Using `pip`
+   ### Primary Method:  Using `pip`
 
     1. **Create and activate a virtual environment:**
 
@@ -80,7 +80,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
         streamlit run main.py
         ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 .
@@ -115,7 +115,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 
 ```
 
-## 📦 Dependencies
+##  Dependencies
 
 The main dependencies for this project are listed in the `pyproject.toml` file. They include:
 
@@ -129,7 +129,7 @@ The main dependencies for this project are listed in the `pyproject.toml` file. 
 * `streamlit-folium>=0.15` - [Streamlit Folium](https://pypi.org/project/streamlit-folium/)
 * `requests>=2.31` - [Requests](https://pypi.org/project/requests/)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Machine Learning–based violation prediction
 - Real-time data ingestion via APIs
